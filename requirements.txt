@@ -1,0 +1,5 @@
+langgraph>=0.0.20
+langchain-core>=0.1.35
+langchain-huggingface>=0.0.6
+huggingface_hub>=0.21.4
+typing-extensions>=4.5.0
